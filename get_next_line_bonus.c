@@ -12,7 +12,7 @@
 
 #include "get_next_line_bonus.h"
 #ifndef BUFFER_SIZE
-# define BUFFER_SIZE 0
+# define BUFFER_SIZE 42
 #endif
 
 static void	*ft_clear_backup(char **backup)

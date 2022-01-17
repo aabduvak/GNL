@@ -17,7 +17,7 @@
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-getting-started">Usage</a>
+	<a href="#getting-started">Usage</a>
 	<span> · </span>
 	<a href="#-testing">Testing</a>
 </h3>
@@ -71,7 +71,7 @@ int main(void)
 	{
 		temp = get_next_line(fd);
 		if (!temp)
-		break ;
+			break ;
 		printf("%s", temp);
 		free(temp);
 	}
@@ -134,7 +134,7 @@ The functions present in the utils are from the [Libft](https://github.com/abdul
         </tr>
         <tr>
             <td><a href=get_next_line_utils.c>ft_substr</a></td>
-            <td>Converts the string to an integer (type int).</td>
+            <td>Creates new string from start parameter to length</td>
         </tr>
         <tr>
             <td><a href=get_next_line_utils.c>ft_strchr</a></td>

@@ -13,7 +13,7 @@
 #include "get_next_line.h"
 
 /**
- * @brief The function will copy bytes from src to dest and returns dest char
+ * @brief The function copies bytes from src to dest and returns dest char
  * 
  * @param dest 
  * @param src 
@@ -39,7 +39,7 @@ char	*ft_strncpy(char *dest, const char *src, size_t size)
 }
 
 /**
- * @brief The function will count length of the string and returns it.
+ * @brief The function counts length of the string and returns it.
  * 
  * @param str 
  * @return size_t 
@@ -56,7 +56,7 @@ size_t	ft_strlen(const char *str)
 }
 
 /**
- * @brief The function will join char s1 with char s2 and returns new string.
+ * @brief The function joins char s1 with char s2 and returns new string.
  * 
  * @param s1 
  * @param s2 
@@ -91,7 +91,7 @@ char	*ft_strjoin(char const *s1, char const *s2)
 }
 
 /**
- * @brief The function will find given c from the string and returns its address.
+ * @brief The function finds given c from the string and returns its address.
  * 
  * @param str 
  * @param c 
@@ -110,7 +110,7 @@ char	*ft_strchr(const char *str, int c)
 }
 
 /**
- * @brief The function will creates new string from start to length.
+ * @brief The function creates new string from start to length.
  * 
  * @param s 
  * @param start 
