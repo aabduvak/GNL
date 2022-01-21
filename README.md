@@ -32,7 +32,7 @@
 Get Next Line is an individual project at [42](https://www.42istanbul.com.tr/) that requires us to create a function similar to the getline from CPP and fgets from C. This function allows a file to be read line after line if called in a loop.
 
 ### Application flow
-Click [here](https://excalidraw.com/#room=643c641616bcbd4cd4cc,qEC7pgad8jgnkg4W6FTIWA) for the interactive link.
+Click [here](https://excalidraw.com/#json=kbWSFRGd3J4Zdg45Q_nHs,Eyv_Lr8kBJ2EkW0xhXCnPw) for the interactive link.
 
 #### Objectives
 - Unix logic
