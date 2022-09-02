@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abdulazizabduvakhobov/GNL?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abdulazizabduvakhobov/GNL?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abdulazizabduvakhobov/GNL?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abdulazizabduvakhobov/GNL?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abdulazizabduvakhobov/GNL?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aabduvak/GNL?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/aabduvak/GNL?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/aabduvak/GNL?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aabduvak/GNL?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aabduvak/GNL?color=green" />
 </p>
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
+	<a href="#-about-the-project">About</a>
 	<span> · </span>
 	<a href="#getting-started">Usage</a>
 	<span> · </span>
